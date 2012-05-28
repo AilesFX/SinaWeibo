@@ -1,0 +1,4 @@
+SinaWeibo
+=========
+
+perl sdk, sinaweibo
